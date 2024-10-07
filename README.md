@@ -19,7 +19,7 @@
 ⚡ Passionate **Mobile Developer**
 
 
-🌟 Main languages: **Dart, Oracle, Typescripy**
+🌟 Main languages: **Dart, Oracle, Typescript**
 
 
 🚩 Interested **in Full Stack Machine Learning Application development**
